@@ -1,0 +1,13 @@
+package main
+
+import(
+	"fmt"
+)
+
+func calcola(x1 int, y1 int, x2 int, y2 int) int{
+	
+}
+
+func main(){
+	
+}
